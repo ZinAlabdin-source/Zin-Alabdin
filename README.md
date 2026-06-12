@@ -14,7 +14,7 @@
 <!-- Status Badges Matrix -->
 <img src="https://img.shields.io/badge/📖-Learning%20C%2B%2B-2E97F7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/📊-Beginner%20Level-6A5ACD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎮-2%20Projects%20Done-FF69B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎮-4%20Projects%20Done-FF69B4?style=for-the-badge" />
 
 <br><br>
 
